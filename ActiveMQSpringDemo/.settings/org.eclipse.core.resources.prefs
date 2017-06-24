@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/com/hong/SpringActivemq/controller/ActivemqController.java=UTF-8
+encoding//src/com/hong/SpringActivemq/mq/consumer/queue/QueueReceiver1.java=UTF-8
+encoding//src/com/hong/SpringActivemq/mq/consumer/queue/QueueReceiver2.java=UTF-8
+encoding//src/com/hong/SpringActivemq/mq/consumer/topic/TopicReceiver1.java=UTF-8
+encoding//src/com/hong/SpringActivemq/mq/consumer/topic/TopicReceiver2.java=UTF-8
+encoding//src/com/hong/SpringActivemq/mq/producer/queue/QueueSender.java=UTF-8
+encoding//src/com/hong/SpringActivemq/mq/producer/topic/TopicSender.java=UTF-8
